@@ -2,8 +2,8 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Kai Ma
+Kai Ma
 Web developer
 
 Show Contacts
